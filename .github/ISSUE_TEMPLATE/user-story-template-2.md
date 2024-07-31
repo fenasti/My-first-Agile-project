@@ -13,3 +13,8 @@ In order to **receive benefit** as a **role**, I can **goal / desire**
 - Criteria 1
 - Criteria 2
 - Criteria 3
+
+## Tasks:
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
